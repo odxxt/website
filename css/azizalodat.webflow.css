@@ -999,6 +999,7 @@ a {
   right: -147%;
 }
 
+
 .card-header {
   height: 200px;
   background-image: url('../images/educon-1.jpg');
@@ -1014,6 +1015,24 @@ a {
 .card-header.project-p-header {
   background-image: url('../images/project_p.png');
   background-repeat: repeat-x;
+}
+
+.card-header.prog {
+  background-image: url('../images/prog.jpg');
+  background-repeat: repeat-x;
+  background-position: -82% 44%;
+}
+
+.card-header.trash {
+  background-image: url('../images/trash.jpg');
+  background-repeat: repeat-x;
+  background-position: -82% 30%;
+}
+
+.card-header.cce {
+  background-image: url('../images/cce.jpg');
+  background-repeat: repeat-x;
+  background-position: -82% 45%;
 }
 
 .carousel-mask {
