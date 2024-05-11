@@ -2799,7 +2799,7 @@ a {
   }
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 10000px) {
   #w-node-a78ca7b2-aa49-51de-526d-797b8455ffcc-8d7bcffa {
     align-self: center;
     justify-self: center;
